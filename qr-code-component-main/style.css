@@ -1,7 +1,7 @@
 .attribution {
     font-size: 11px;
     margin-top: auto;
-    margin-bottom: 200px;
+    margin-bottom: 150px;
     color: black;
     text-align: center;
 
@@ -58,7 +58,7 @@ body {
     max-width: 320px;
     padding: 16px;
     text-align: center;
-
+    margin-top: 50px;
     border-radius: 10px;
     box-shadow: 0 20px 25px -10px hsl(217, 12%, 63%);
 }
